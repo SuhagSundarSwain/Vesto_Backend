@@ -23,5 +23,4 @@ public class Product {
     private String category;
     private Integer stock;
     private String imageUrl;
-
 }
